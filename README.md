@@ -18,10 +18,6 @@ https://preview-krypttax-website-kzmiyequ79liq27uu79s.vusercontent.net/
 
 ---
 
-## 📸 Screenshots
-TBD
----
-
 ## 🧰 Tech Stack
 
 - **Framework**: Next.js (App Router)
