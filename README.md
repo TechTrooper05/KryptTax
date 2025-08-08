@@ -7,7 +7,7 @@ Team Members:
 1. Kartik Singh
 2. Ayush Tak
 3. Shaurya Jain
-4. Aditya Bawaskar
+4. Aditya Pawaskar
 5. Suryakiran Haridas
    
 ---
