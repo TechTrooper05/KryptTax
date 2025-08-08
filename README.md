@@ -13,7 +13,7 @@ Team Members:
 ---
 
 ## 🌐 Live Demo
-
+Here's the preview of our web app:
 https://preview-krypttax-website-kzmiyequ79liq27uu79s.vusercontent.net/
 
 ---
